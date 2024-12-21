@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  background-color: hsl(212, 45%, 89%);
+}
+
+footer {
+  text-align: center;
+  margin-top: auto;
+}
